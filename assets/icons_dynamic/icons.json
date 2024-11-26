@@ -1,0 +1,25 @@
+[
+  {
+    "iconPath": "*",
+    "isDark": true,
+    "pColors": ["#fbb040", "#f0bc5e"],
+    "lColors": ["#25235f"],
+    "fColors": ["#fffffe"],
+    "pOpacity": 1,
+    "lOpacity": 1,
+    "fOpacity": 0
+  },
+  {
+    "iconPath": "*",
+    "isDark": false,
+    "pColors": ["#fbb040", "#f0bc5e"],
+    "lColors": ["#25235f"],
+    "fColors": ["#fffffe"],
+    "pColor": "#F25151",
+    "lColor": "#000000",
+    "fColor": "#F25151",
+    "pOpacity": 1,
+    "lOpacity": 1,
+    "fOpacity": 0
+  }
+]
